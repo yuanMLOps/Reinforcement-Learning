@@ -1,0 +1,9 @@
+data/
+**/.ipynb_checkpoints/
+**/*.pt
+**/lightning_logs/
+**/raw/
+**/processed/
+**/*.env
+**/*.tfvars
+**/__pycache__/
